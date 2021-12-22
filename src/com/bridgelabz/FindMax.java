@@ -7,6 +7,7 @@ public class FindMax {
 		Comparison compare = new Comparison();
 		compare.maximumInteger();
         compare.maximumFloat();
+        compare.maximumString();
 	}
 
 }
