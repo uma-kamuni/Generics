@@ -1,7 +1,5 @@
 package com.bridgelabz;
 
-import com.bridgelabz.helloworld.Comparison;
-
 public class FindMax {
 
 	public static void main(String[] args) {
